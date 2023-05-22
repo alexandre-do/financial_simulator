@@ -1,2 +1,3 @@
 # financial_simulator
-Code for Cpp and Python simulators for financial assets
+Code containing Cpp and Python simulators for financial assets. 
+
